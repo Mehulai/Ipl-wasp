@@ -35,3 +35,4 @@ conda install numpy pandas matplotlib
 and type Yes when asked to to download them using Anaconda.
 ## GENERAL RULES:-
 1) Don't commit directly, make another branch and put a pull request, we will verify and add the code to the repository
+2) The repository is under Apache Licence 2.0
