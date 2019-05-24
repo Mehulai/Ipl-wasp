@@ -2,8 +2,9 @@
 
 <!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
 
-***INSERT GRAPHIC HERE (include hyperlink in image)***
 # Ipl-wasp
+> Making predictions easy
+> Based on toss outcomes
 win and score predictor for ipl using numpy , pandas and matplotlib . We have 2 programs for one for predicting score and one for predicting the result . The result predictor code will take input of all the various factors involved in a match between 2 particular teams of a season such as toss winner , toss decision , venue , margin of runs/wickets of a particular win , umpires etc to predict the odds of a team winning a particular match on a particular venue. 
 The score predictin code will take input of all the deliveries of all the matches held from the starting till the date and will use machine learning algorithm to predict the score of a particular innings based on that.
 
