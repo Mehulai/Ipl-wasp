@@ -1,5 +1,8 @@
-<!--<a href="http://iplt20.com"><img src="https://www.google.com/search?q=ipl+image&rlz=1C1GCEB_enIN849IN849&tbm=isch&source=iu&ictx=1&fir=49NDVBYUxgpxmM%253A%252CfuLQYk-4hcVl_M%252C_&vet=1&usg=AI4_-kT4eWZ8dEDA6INc72lssFqHl4G2TA&sa=X&ved=2ahUKEwjt6MWzobPiAhUQfSsKHT9mAY0Q9QEwAXoECAcQBg#imgrc=49NDVBYUxgpxmM:" title="IPL" alt="IPL"></a>-->
-![alt text](http://url/to/img.png)
+<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+
+<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+
+***INSERT GRAPHIC HERE (include hyperlink in image)***
 # Ipl-wasp
 win and score predictor for ipl using numpy , pandas and matplotlib . We have 2 programs for one for predicting score and one for predicting the result . The result predictor code will take input of all the various factors involved in a match between 2 particular teams of a season such as toss winner , toss decision , venue , margin of runs/wickets of a particular win , umpires etc to predict the odds of a team winning a particular match on a particular venue. 
 The score predictin code will take input of all the deliveries of all the matches held from the starting till the date and will use machine learning algorithm to predict the score of a particular innings based on that.
