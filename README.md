@@ -10,7 +10,7 @@
 win and score predictor for ipl using numpy , pandas and matplotlib . We have 2 programs for one for predicting score and one for predicting the result . The result predictor code will take input of all the various factors involved in a match between 2 particular teams of a season such as toss winner , toss decision , venue , margin of runs/wickets of a particular win , umpires etc to predict the odds of a team winning a particular match on a particular venue. 
 The score predictin code will take input of all the deliveries of all the matches held from the starting till the date and will use machine learning algorithm to predict the score of a particular innings based on that.
 
-[![Coverage Status](https://coveralls.io/repos/github/badges/badgerbadgerbadger/badge.svg?branch=master)](https://coveralls.io/github/badges/badgerbadgerbadger?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/badges/badgerbadgerbadger/badge.svg?branch=master)](https://coveralls.io/github/badges/badgerbadgerbadger?branch=master) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 Installation :-
 #Getting Started
