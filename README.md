@@ -13,7 +13,8 @@ The score predictin code will take input of all the deliveries of all the matche
 [![Coverage Status](https://coveralls.io/repos/github/badges/badgerbadgerbadger/badge.svg?branch=master)](https://coveralls.io/github/badges/badgerbadgerbadger?branch=master) [![License](http://img.shields.io/:license-apache-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 Installation :-
-#Getting Started
+
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 Prerequisites
